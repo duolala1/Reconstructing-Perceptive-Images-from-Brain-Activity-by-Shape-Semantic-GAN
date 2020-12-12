@@ -16,7 +16,7 @@ The reconstructed images will be saved in "results" fold.
 Comparing part of the reconstructed samples with other methods visually.
 
 
-<img src="https://github.com/duolala1/Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN/blob/main/results/digits/dataset1_compare_q.png?raw=true" width="600" height="400" alt="Comparing the reconstruction performance with other methods quantitatively."/><br/>
+<img src="https://github.com/duolala1/Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN/blob/main/results/digits/dataset1_compare_q.png?raw=true" width="400" height="300" alt="Comparing the reconstruction performance with other methods quantitatively."/><br/>
 
 
 Comparing the reconstruction performance with other methods quantitatively.
