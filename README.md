@@ -1,5 +1,6 @@
 # Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN
 The codes of paper: "Reconstructing Perceptive Images from Brain Activity by Shape-Semantic GAN". 
+Author : Tao Fang, Yu Qi, Gang Pan
 
 This demo takes the published fMRI data "69-digits" as inputs.
 This dataset contains 100 fMRI samples and 2 different stimulus images : '6' and '9'.
