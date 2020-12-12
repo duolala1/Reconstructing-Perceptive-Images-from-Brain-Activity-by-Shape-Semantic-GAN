@@ -4,6 +4,8 @@ The codes of paper:
 This demo takes the published fMRI data "69-digits" as inputs.
 
 The shape decoding and semantic decoding scripts could be found in "model" fold.
+
+Tao Fang, 2020.12
 '''
 import torch.nn as nn
 from model import shape_decoding_digits
@@ -56,7 +58,7 @@ for i in range(90, 100):
         target.save('data/images/demo1/samples/val/%d.jpg' % i)
 
 
-n_epochs = 7
+n_epochs = 10
 batch_size = 10
 lr = 0.0002
 b1 = 0.5
