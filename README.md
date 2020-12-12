@@ -11,7 +11,7 @@ Directly run the script:
 The reconstructed images will be saved in "results" fold.
 
 ![Comparing part of the reconstructed samples with other methods visually.](https://github.com/duolala1/Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN/blob/main/results/digits/dataset1_compare.png?raw=true)
-
+<img src="https://github.com/duolala1/Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN/blob/main/results/digits/dataset1_compare.png?raw=true" width="200" height="200" alt="微信小程序"/><br/>
 ![Comparing the reconstruction performance with other methods quantitatively.](https://github.com/duolala1/Reconstructing-Perceptive-Images-from-Brain-Activity-by-Shape-Semantic-GAN/blob/main/results/digits/dataset1_compare_q.png?raw=true)
 The semantic decoder and shape decoder scripts are contained in the "model" fold.
 
