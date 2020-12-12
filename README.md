@@ -29,5 +29,5 @@ The semantic decoder and shape decoder scripts are contained in the "model" fold
 
 Requirements:
 
-Pytorch
+Pytorch 1.7.0
 
